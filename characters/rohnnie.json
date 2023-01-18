@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				59,
+				-57
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "rohnnieHey",
+			"indices": [],
+			"name": "rohnnie hey"
+		},
+		{
+			"offsets": [
+				42,
+				-42
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "prep",
+			"indices": [],
+			"name": "rohnnie prepare"
+		},
+		{
+			"offsets": [
+				2,
+				-48
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "rohnnie idle"
+		},
+		{
+			"offsets": [
+				18,
+				-71
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "rohnnie left"
+		},
+		{
+			"offsets": [
+				-50,
+				-105
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rohnnie right"
+		},
+		{
+			"offsets": [
+				-11,
+				-127
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rohnnie down"
+		},
+		{
+			"offsets": [
+				-52,
+				-23
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rohnnie up"
+		},
+		{
+			"offsets": [
+				14,
+				-46
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "rohnnieHi",
+			"indices": [],
+			"name": "rohnnie hi"
+		},
+		{
+			"offsets": [
+				106,
+				-66
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "rohnnie alt left"
+		},
+		{
+			"offsets": [
+				-80,
+				-96
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "rohnnie alt down"
+		},
+		{
+			"offsets": [
+				-75,
+				-84
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "rohnnie alt right"
+		},
+		{
+			"offsets": [
+				28,
+				-28
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "rohnnie alt up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-48
+			],
+			"anim": "secretprep",
+			"fps": 24,
+			"name": "rohnnie secret prep",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rohnnie/ROHNNIE FLA",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "rohnnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		145,
+		102
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 6.9,
+	"scale": 1.7
+}

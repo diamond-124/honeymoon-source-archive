@@ -1,0 +1,4 @@
+Play Lua animations from script
+
+Value 1: name of lua sprite
+Value 2: name of lua animation

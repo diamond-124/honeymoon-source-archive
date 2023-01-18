@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rosie idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				238
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rosie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				184
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rosie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				266
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rosie up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				259
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rosie right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				239
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "rosie miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				185
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "rosie miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				266
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "rosie miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				254
+			],
+			"anim": "beeYay",
+			"fps": 24,
+			"name": "rosie yay",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				211
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "rosie alt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				240
+			],
+			"anim": "prep",
+			"fps": 24,
+			"name": "rosie prep",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-105,
+				259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rosie miss right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				460
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "rosie dies",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				449
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "rosie loop dead"
+		},
+		{
+			"offsets": [
+				120,
+				449
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "rosie dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bittersweet/ROSIE FLA",
+	"position": [
+		0,
+		460
+	],
+	"healthicon": "rosiebee",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		115,
+		209
+	],
+	"camera_position": [
+		550,
+		-480
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

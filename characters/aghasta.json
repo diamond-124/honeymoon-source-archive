@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "aggie idle"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "aggie idle"
+		},
+		{
+			"offsets": [
+				-24,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "aggie up"
+		},
+		{
+			"offsets": [
+				-12,
+				-42
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "aggie down"
+		},
+		{
+			"offsets": [
+				0,
+				-22
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "aggie left"
+		},
+		{
+			"offsets": [
+				-35,
+				-33
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "aggie right"
+		},
+		{
+			"offsets": [
+				133,
+				-27
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "aggie prep",
+			"indices": [],
+			"name": "aggie prep"
+		},
+		{
+			"offsets": [
+				0,
+				9
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "aggie alt up"
+		},
+		{
+			"offsets": [
+				-31,
+				-79
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "aggie alt down"
+		},
+		{
+			"offsets": [
+				34,
+				-24
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "aggie alt left"
+		},
+		{
+			"offsets": [
+				-10,
+				-36
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "aggie alt right"
+		},
+		{
+			"offsets": [
+				11,
+				-21
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "aggie alt idle"
+		},
+		{
+			"offsets": [
+				4,
+				-11
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "beeLook",
+			"indices": [],
+			"name": "aggie bee look"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bittersweet/AGGIE FLA",
+	"position": [
+		0,
+		-130
+	],
+	"healthicon": "aggie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		195
+	],
+	"camera_position": [
+		-60,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

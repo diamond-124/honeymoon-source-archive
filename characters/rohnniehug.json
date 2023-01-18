@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				380,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "run hug",
+			"indices": [],
+			"name": "rohnnie running hug"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-550,
+				-88
+			],
+			"anim": "bf hugged",
+			"fps": 24,
+			"name": "bf hugged",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rohnnie/rohnniehug/ROHNNIE HUG",
+	"position": [
+		300,
+		-50
+	],
+	"healthicon": "rohnnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		145,
+		102
+	],
+	"camera_position": [
+		210,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

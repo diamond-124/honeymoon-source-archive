@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				374,
+				327
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-39,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				10
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				84
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				94,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf left"
+		},
+		{
+			"offsets": [
+				52,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				12
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-84
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				67
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-8
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				9
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "bf hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-4
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "bf hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				-8
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "bf fear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				-14
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "bf dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rohnnie/badapplerohnnie/bfhoneymoon",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "bfhoneymoon",
+	"flip_x": true,
+	"healthbar_colors": [
+		140,
+		196,
+		255
+	],
+	"camera_position": [
+		30,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

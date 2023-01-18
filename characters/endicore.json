@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "EndieIdle"
+		},
+		{
+			"offsets": [
+				-10,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "EndieLeft"
+		},
+		{
+			"offsets": [
+				-30,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EndieRight"
+		},
+		{
+			"offsets": [
+				49,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "EndieDown"
+		},
+		{
+			"offsets": [
+				78,
+				141
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "EndieUp"
+		},
+		{
+			"offsets": [
+				30,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "EndieAltUp"
+		},
+		{
+			"offsets": [
+				200,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "EndieAltDown"
+		},
+		{
+			"offsets": [
+				45,
+				107
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "EndieAltLeft"
+		},
+		{
+			"offsets": [
+				-40,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "EndieAltRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/endicorefla",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "endicore",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		45,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

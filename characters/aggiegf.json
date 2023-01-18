@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				42
+			],
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "GF Cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				51
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				51
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				50
+			],
+			"anim": "danceLeft-alt",
+			"fps": 24,
+			"name": "Aggie Dancing Beat",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				50
+			],
+			"anim": "danceRight-alt",
+			"fps": 24,
+			"name": "Aggie Dancing Beat",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"offsets": [
+				19,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "turnLeft",
+			"loop": false,
+			"name": "GF turn"
+		},
+		{
+			"offsets": [
+				16,
+				48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "turnRight",
+			"loop": false,
+			"name": "Aggie turn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rohnnie/AGGIE/GF HONEYMOON AGHASTA",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gfhoneymoon",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

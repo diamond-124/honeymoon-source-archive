@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-84
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "rohnnie alt idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-84
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "rohnnie alt idle",
+			"indices": [
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rohnnie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-142
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rohnnie right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-165
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rohnnie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rohnnie up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				-104
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "rohnnie alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-121
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rohnnie alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-138
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "rohnnie alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-62
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "rohnnie alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1052,
+				-66
+			],
+			"anim": "rohnnie goodbye",
+			"fps": 24,
+			"name": "rohnnie goodbye",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rohnnie/ROHNNIE TAM",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "tamrohnnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		125,
+		122
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 9,
+	"scale": 1.7
+}

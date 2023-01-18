@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "rohnniedoor up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "rohnniedoor left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "rohnniedoor right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "rohnniedoor down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "rohnniedoor close"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "rohnniedoor idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "opening",
+			"loop": false,
+			"name": "rohnniedoor open sequence"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bittersweet/beesleepy",
+	"position": [
+		0,
+		-130
+	],
+	"healthicon": "rohnnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		195
+	],
+	"camera_position": [
+		-60,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
